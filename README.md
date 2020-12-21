@@ -13,6 +13,8 @@ pip install requirements.txt
 
 ## Usage
 
+(Save all files in the same directory)
+
 ```bash
 python3 main.py
 ```
