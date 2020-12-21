@@ -10,6 +10,14 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install require
 ```bash
 pip install requirements.txt
 ```
+* For Linux users replace 
+    ```python
+    os.system('cls')
+    ```
+    with 
+    ```python
+    os.system('clear')
+    ```
 
 ## Usage
 
