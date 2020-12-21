@@ -51,7 +51,7 @@ def Happy_Meter(percent):
             time.sleep(0.1)
     print(f'\n')
     print()
-    text(Fore.CYAN + f'  Your decision impcted your re-election probability.\n')
+    text(Fore.CYAN + f'  Your decision impacted your re-election probability.\n')
     print()
     text(Fore.CYAN + f'  Here is your constituency\'s Happy-Meter from your work.\n')
     print()
